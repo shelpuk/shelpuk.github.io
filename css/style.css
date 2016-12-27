@@ -1,0 +1,8 @@
+.carousel-inner > .item > img{
+       width:200px;
+       height:200px;
+     }
+
+.carousel-item-text {
+    color:black;
+}
